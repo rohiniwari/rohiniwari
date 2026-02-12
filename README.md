@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:F472B6&height=200&section=header&text=Rohini%20Wari&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:F472B6&height=200&section=header&text=Rohini%20Tiwari&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
 <h2>⚡ Full Stack Developer | React • Node • PostgreSQL • Supabase</h2>
 <h4>🌸 Building Secure, Scalable & Elegant Web Systems</h4>
