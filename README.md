@@ -100,15 +100,7 @@ Add your real projects here:
 
 ---
 
-## 📈 GitHub Performance
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rohiniwari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=F472B6&icon_color=8B5CF6&cache_seconds=3600" height="170" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohiniwari&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=F472B6&cache_seconds=3600" height="170" alt="Top Languages"/>
-
-</div>
 
 ---
 
